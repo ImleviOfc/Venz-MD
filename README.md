@@ -1,12 +1,12 @@
-# Lord_MD
-Whatsapp Bot 💫 || Lord Bot MD 🌪️ || Made By Letta-Sama🌹AmmarBN
+# venz-bot
+Whatsapp Bot 💫 || Venz Bot MD 🌪️ || Made By Letta-Sama🌹Levi
 
 <p align="center">
     <img src="https://telegra.ph/file/4ee6b246627f8ac4dbcff.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 * Unduh Node Modules Bot [`Click Here`](https://drive.google.com/file/d/14dfcHVsiRd38DJCtpV-OTdb9bukP5fst/view?usp=drivesdk)
-<h1 align="center">LordBOT - MD</h1>
+<h1 align="center">VenzBOT - MD</h1>
 <p align="center">
   <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Ammar - Executed;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
@@ -28,7 +28,7 @@ Whatsapp Bot 💫 || Lord Bot MD 🌪️ || Made By Letta-Sama🌹AmmarBN
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6288229683561">
+  <a href="https://wa.me/6285172446692">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@knchann">
@@ -42,10 +42,10 @@ Whatsapp Bot 💫 || Lord Bot MD 🌪️ || Made By Letta-Sama🌹AmmarBN
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/62831433937633"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287708773367) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288229683561) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT) 
+## ```Whatsapp``` <a href="https://wa.me/6285172446692"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285172446692) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285172446692) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JBrpYNLMqac4qMcc91quke) 
 ---------
 
 #### KELEBIHAN 📍
@@ -264,3 +264,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Rasel Comel`](https://github.com/raselcomel)
 * [`Rominaru`](https://github.com/rominaru)
 * [`AmmarBN`](https://github.com/AmmarrBN)
+* [`ImleviOfc`](https://github.com/ImleviOfc) 
